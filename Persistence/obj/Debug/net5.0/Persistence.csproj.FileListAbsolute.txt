@@ -1,0 +1,16 @@
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\bin\Debug\net5.0\Persistence.exe
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\bin\Debug\net5.0\Persistence.deps.json
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\bin\Debug\net5.0\Persistence.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\bin\Debug\net5.0\Persistence.pdb
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\obj\Debug\net5.0\Persistence.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
