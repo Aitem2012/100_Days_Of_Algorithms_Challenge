@@ -1,0 +1,16 @@
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\bin\Debug\net5.0\FindUnique.exe
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\bin\Debug\net5.0\FindUnique.deps.json
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\bin\Debug\net5.0\FindUnique.runtimeconfig.json
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\bin\Debug\net5.0\FindUnique.runtimeconfig.dev.json
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\bin\Debug\net5.0\FindUnique.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\bin\Debug\net5.0\ref\FindUnique.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\bin\Debug\net5.0\FindUnique.pdb
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\obj\Debug\net5.0\FindUnique.csprojAssemblyReference.cache
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\obj\Debug\net5.0\FindUnique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\obj\Debug\net5.0\FindUnique.AssemblyInfoInputs.cache
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\obj\Debug\net5.0\FindUnique.AssemblyInfo.cs
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\obj\Debug\net5.0\FindUnique.csproj.CoreCompileInputs.cache
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\obj\Debug\net5.0\FindUnique.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\obj\Debug\net5.0\ref\FindUnique.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\obj\Debug\net5.0\FindUnique.pdb
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\FindUnique\obj\Debug\net5.0\FindUnique.genruntimeconfig.cache
