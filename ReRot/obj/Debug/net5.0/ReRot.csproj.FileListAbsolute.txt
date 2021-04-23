@@ -1,0 +1,16 @@
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\bin\Debug\net5.0\ReRot.exe
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\bin\Debug\net5.0\ReRot.deps.json
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\bin\Debug\net5.0\ReRot.runtimeconfig.json
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\bin\Debug\net5.0\ReRot.runtimeconfig.dev.json
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\bin\Debug\net5.0\ReRot.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\bin\Debug\net5.0\ref\ReRot.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\bin\Debug\net5.0\ReRot.pdb
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\obj\Debug\net5.0\ReRot.csprojAssemblyReference.cache
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\obj\Debug\net5.0\ReRot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\obj\Debug\net5.0\ReRot.AssemblyInfoInputs.cache
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\obj\Debug\net5.0\ReRot.AssemblyInfo.cs
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\obj\Debug\net5.0\ReRot.csproj.CoreCompileInputs.cache
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\obj\Debug\net5.0\ReRot.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\obj\Debug\net5.0\ref\ReRot.dll
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\obj\Debug\net5.0\ReRot.pdb
+C:\Users\hp\Project Works\ArrayWorks\100DaysOfAlgorithm\ReRot\obj\Debug\net5.0\ReRot.genruntimeconfig.cache
